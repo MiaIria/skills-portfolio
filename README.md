@@ -18,7 +18,7 @@ AI 产品经理学习者，专注于将 LLM 能力转化为可用的产品体验
 |---|-------|--------|------|------|------|
 | 1 | **style-distiller** | 训练 AI 按「你的风格」写文章 | 6 目录 / 18 文件 / ~2500 行 | 🟢 v0.1.0 | [GitHub](https://github.com/MiaIria/style-distiller) |
 | 2 | **love-match** | 18 题看清你在恋爱里的样子 | 1 SKILL.md (729行) + H5 部署 | 🟢 已上线 | [GitHub](https://github.com/MiaIria/love-persona) · [体验](https://love-manual.taro.black) |
-| 3 | **ai-job-search-assistant** | 5 步流水线完成求职调研 | 1 SKILL.md (大型) | 🟢 稳定使用 | 见下方详情 |
+| 3 | **ai-job-search-assistant** | 5 步流水线完成求职调研 | 1 SKILL.md (大型) | 🟢 稳定使用 | [GitHub](https://github.com/MiaIria/ai-job-search-assistant-skill) |
 
 ---
 
@@ -149,6 +149,7 @@ AI 产品经理学习者，专注于将 LLM 能力转化为可用的产品体验
 | **核心能力** | 输入目标岗位 + 城市 + 简历 PDF → 自动搜索 50 家公司 → 匹配评分筛选 20-25 家 → 深度调研 15 家 → 输出 8 家优先投递建议 + STAR 简历改写 + 面试预测题 |
 | **技术亮点** | ① 5 步流水线每步有独立 LLM 角色定义 ② 100 分匹配量表（硬要求/经验/软匹配三轴）③ 5 维企业深度调研框架 ④ 支持排除已调研公司（增量使用） |
 | **关键数据** | 5 步完整流程 / 50→25→15→8 漏斗筛选 / 100 分匹配量表 / 已实际使用 74+ 次 |
+| **链接** | [GitHub](https://github.com/MiaIria/ai-job-search-assistant-skill) |
 
 ### 🎯 产品设计思路
 
